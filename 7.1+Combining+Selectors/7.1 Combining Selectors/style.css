@@ -1,1 +1,17 @@
 /* Write your code here: */
+h1, h2 {
+    color: blueviolet;
+}
+
+/* DIV é o pai e o P o filho */
+div > p {
+    color: firebrick;
+}
+
+div li {
+    color: blue;
+}
+
+li.done {
+    color: green;
+}
